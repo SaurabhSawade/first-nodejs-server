@@ -51,7 +51,7 @@ header {
 /* Content Section */
 .content-section {
     padding: 40px 20px;
-    background-color: white;
+    background-color: gray;
     margin: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
